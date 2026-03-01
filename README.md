@@ -61,3 +61,9 @@ Concept design for automated infrastructure provisioning and self-service deploy
 ---
 
 > Building reliable cloud systems through automation and continuous improvement.
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![Python](https://img.shields.io/badge/Python-Automation-yellow?logo=python)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?logo=githubactions)

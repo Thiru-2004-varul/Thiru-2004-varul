@@ -37,7 +37,7 @@ Implemented migration strategies reducing downtime by **>90%**.
 
 ---
 
-### 🔹 Enterprise Internal Developer Platform (WIP)
+### 🔹 Enterprise Internal Developer Platform 
 Concept design for automated infrastructure provisioning and self-service deployments.  
 👉 https://github.com/Thiru-2004-varul/enterprise-idp-platform
 

@@ -1,14 +1,8 @@
 ![Banner](https://readmeforge.natrajx.in/api/banner?text=Thiruvarul+%7C+Cloud+%7C+DevOps+%7C+Automation&subtext=Building+scalable%2C+secure%2C+production-ready+cloud+systems&colors=%2300c6ff,%230072ff&shape=wave&height=250&width=1000&align=center&theme=dark&fontFamily=Orbitron)
 
-<h1 align="center">Hi 👋, I'm Thiruvarul</h1>
+# Hi, I'm Thiruvarul 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer;DevOps+Engineer;Automation+Enthusiast;Building+Scalable+Systems" />
-</p>
-
-<p align="center">
 Cloud & Automation enthusiast focused on building secure, scalable, and highly available infrastructure using modern DevOps practices.
-</p>
 
 ---
 
@@ -75,4 +69,4 @@ Concept design for automated infrastructure provisioning and self-service deploy
 ![Python](https://img.shields.io/badge/Python-Automation-yellow?logo=python)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?logo=githubactions)
 
-> 🚀 Building reliable cloud systems through automation and continuous improvement.
+> Building reliable cloud systems through automation and continuous improvement.

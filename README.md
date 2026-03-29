@@ -1,5 +1,3 @@
-![Banner](https://readmeforge.natrajx.in/api/banner?text=Thiruvarul+%7C+Cloud+%7C+DevOps+%7C+Automation&subtext=Building+scalable%2C+secure%2C+production-ready+cloud+systems&colors=%2300c6ff,%230072ff&shape=wave&height=250&width=1000&align=center&theme=dark&fontFamily=Orbitron)
-
 # Hi, I'm Thiruvarul 👋
 
 Cloud & Automation enthusiast focused on building secure, scalable, and highly available infrastructure using modern DevOps practices.
@@ -62,11 +60,11 @@ Concept design for automated infrastructure provisioning and self-service deploy
 
 ---
 
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 ![Python](https://img.shields.io/badge/Python-Automation-yellow?logo=python)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?logo=githubactions)
-
 > Building reliable cloud systems through automation and continuous improvement.

@@ -1,65 +1,108 @@
 # Hi, I'm Thiruvarul 👋
 
-Cloud & Automation enthusiast focused on building secure, scalable, and highly available infrastructure using modern DevOps practices.
+🚀 AWS DevOps Engineer | Building reliable, secure, and scalable cloud systems
+
+I don’t just deploy applications — I build systems that don’t fail.
 
 ---
 
-## 🔧 Technical Focus
+## ⚡ What I Do
 
-- ☁ Cloud Platforms: AWS (EC2, VPC, IAM, ALB, S3, CloudWatch, Lambda)
-- 🏗 Infrastructure as Code: Terraform
-- 🐳 Containers & Orchestration: Docker, Kubernetes
-- 🔁 CI/CD: GitHub Actions
-- 📊 Monitoring & Observability: Prometheus, Grafana, CloudWatch
-- 🐍 Programming: Python (OOP, Automation), Bash
+- Design **highly available cloud infrastructure (95%+ uptime)**
+- Build **zero-downtime deployment systems on Kubernetes**
+- Automate infrastructure using **Terraform (IaC)**
+- Create **CI/CD pipelines** for fast and secure delivery
+- Implement **monitoring systems** that detect issues 70% faster
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack
 
-### 🔹 Secure Multi-AZ Private Web Infrastructure
-Highly available AWS architecture with Auto Scaling and zero-trust security.  
-Improved uptime by **>95%**.  
+- ☁ **Cloud:** AWS (EC2, VPC, IAM, ALB, S3, EKS, CloudWatch)
+- 🏗 **Infrastructure as Code:** Terraform
+- 🐳 **Containers:** Docker, Kubernetes (EKS)
+- 🔁 **CI/CD:** GitHub Actions
+- 📊 **Monitoring:** Prometheus, Grafana, CloudWatch
+- 🐍 **Programming:** Python (Flask), Bash
+- 🔐 **Security:** IAM, RBAC, OIDC
+
+---
+
+## 🚀 Featured Projects (Best Work First)
+
+### 🥇 Zero-Downtime Kubernetes Deployment (EKS)
+Built a production-style deployment system with **0 seconds downtime**.
+
+- Rolling updates with **no service interruption**
+- 5-stage CI/CD pipeline (test → scan → build → deploy)
+- **OIDC authentication** (no stored AWS credentials)
+- Verified using real **Prometheus metrics**
+
+👉 https://github.com/Thiru-2004-varul/virtual-server-co-migration
+
+---
+
+### 🥈 Secure Multi-AZ AWS Infrastructure
+Designed a **highly available and secure AWS architecture**.
+
+- **95%+ uptime** with multi-AZ failover
+- Fully automated using Terraform (**<5 min setup**)
+- Private subnets + Bastion Host (**zero public access**)
+- ALB health checks for automatic recovery
+
 👉 https://github.com/Thiru-2004-varul/secure-multi-az-private-web-infra
 
 ---
 
-### 🔹 CloudWatch Observability Platform
-Modular monitoring system with dashboards and alerts.  
-Reduced response time by **~70%**.  
+### 🥉 Cloud Monitoring & Observability Platform
+Built a complete monitoring system for real-time visibility.
+
+- Improved issue detection speed by **70%**
+- Integrated **CloudWatch + Prometheus + Grafana**
+- Custom `/metrics` endpoint using Flask
+- Faster debugging using CloudWatch Logs Insights
+
 👉 https://github.com/Thiru-2004-varul/cloudwatch-observability-platform
 
 ---
 
-### 🔹 Virtual Server Co-Migration
-Implemented migration strategies reducing downtime by **>90%**.  
-👉https://github.com/Thiru-2004-varul/zero-downtime-virtual-server-co-migration.git
+### 🏅 Internal Developer Platform (IDP)
+Created a self-service infrastructure platform.
 
----
+- Teams can provision environments in **minutes**
+- Reusable Terraform modules (network, compute, EKS)
+- **RBAC-based access control** for security
+- Secure-by-default architecture
 
-### 🔹 Enterprise Internal Developer Platform 
-Concept design for automated infrastructure provisioning and self-service deployments.  
 👉 https://github.com/Thiru-2004-varul/enterprise-idp-platform
 
 ---
 
 ## 📈 What I Focus On
 
-- Infrastructure Automation
-- High Availability & Scalability
+- Infrastructure Automation (IaC)
+- High Availability & Fault Tolerance
+- CI/CD & Deployment Strategies
 - Monitoring & Observability
-- CI/CD Pipeline Implementation
-- System Reliability & Performance
+- Cloud Security & Access Control
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-- 📧 Email: thiruvarulg9@gmail.com
-- 🌍 Location: Tamil Nadu, India
+- 📧 Email: thiruvarulg9@gmail.com  
+- 🌍 Location: Tamil Nadu, India  
+- 💼 LinkedIn: https://www.linkedin.com/in/thiruvarul-g-051690260  
 
 ---
 
+## 🧠 Currently Learning
+
+- Advanced Kubernetes (Scaling, Security)
+- Platform Engineering
+- Cloud Security Best Practices
+
+---
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
@@ -67,4 +110,7 @@ Concept design for automated infrastructure provisioning and self-service deploy
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 ![Python](https://img.shields.io/badge/Python-Automation-yellow?logo=python)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?logo=githubactions)
-> Building reliable cloud systems through automation and continuous improvement.
+
+---
+
+⭐ *Building production-ready cloud systems through automation, reliability, and continuous improvement.*

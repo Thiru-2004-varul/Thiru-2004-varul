@@ -63,7 +63,7 @@ Teams self-provision AWS environments by editing one config file — no tickets,
 
 Live v1 → v2 migration with zero service interruption — Prometheus flat line is the proof. 5-stage CI/CD pipeline, `maxUnavailable: 0` rolling update, OIDC auth — no AWS keys stored anywhere.
 
-🔗 [View project](https://github.com/Thiru-2004-varul/virtual-server-co-migration)
+🔗 [View project](https://github.com/Thiru-2004-varul/zero-downtime-virtual-server-co-migration.git)
 
 ---
 
